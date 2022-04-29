@@ -7,7 +7,6 @@ tags: [tech]
 
 ## Nowadays, technical debt can be considered a bread and butter of most IT-powered enterprises around the world.
 
-test
 Almost every company that survived the startup phase and managed to deliver its first products to customers will face at some point technical challenges related to past architectural decisions. Although code engineering gets better every year, we cannot argue with the obvious fact of life: the market will always force many of us to deliver tech products faster than we wish. Time To Market has always been a key success factor for many product companies and it puts a lot of pressure on Engineering to keep up to challenging deadlines.
 
 Statistics explicitly show the scale of the problem. According to the survey conducted in 2020 by McKinsey[^1], tech debt can reach up to as much as 40% of the whole technology value. On average 10-20% of IT budget is ultimately consumed by tech debt management and most CIOs interviewed consider the problem significantly increasing over past years, especially in enterprise-size companies[^2].
